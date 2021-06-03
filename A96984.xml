@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sad case of Clement VVriter, who hath waited for reliefe therein since the fourth of Decemb. 1640.</title>
+            <author>Writer, Clement, fl. 1627-1658.</author>
+         </titleStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96984</idno><idno type="EEBO-CITATION">99873012</idno>
+  <idno type="VID">157476</idno>
+  <idno type="EEBO-PROQUEST">2248521292</idno>
+  
+            <idno type="STC">Wing W3725aA</idno>
+            <idno type="STC">Thomason E197_5</idno>
+            <idno type="STC">ESTC R6594</idno>
+            <idno type="PROQUEST">99873012</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873012e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157476)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E197[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sad case of Clement VVriter, who hath waited for reliefe therein since the fourth of Decemb. 1640.</title>
+                  <author>Writer, Clement, fl. 1627-1658.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Includes "To the .. House of Commons for petitions" signed: Alexander Rigby amd Luke Robinson (referrees); and "To the Parliament .. the .. petition of Clement Writer.".</note>
+                  <note>The text complains of unjust proceedings by the Lord Keeper Coventry, in the cause of Writer against Worfield.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Writer, Clement, fl. 1627-1658 --  Early works to 1800.</term>
+               <term type="personal_name">Coventry, Thomas Coventry, --  Baron, 1578-1640 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="introduction">
+            <pb n="1" facs="tcp:157476:1"/>
+            <head>The sad case of Clement VVriter, Who hath waited for reliefe therein since the fourth of <hi>Decemb.</hi> 1640.</head>
+            <p>FOr then he made complaint by Petition to the grand Committee for Courts of Justice, against the Injustice of the late L. Keeper <hi>Coventry,</hi> and of some Referrees, who were first obtruded, and then their unjust proceedings and practices countenanced and confirmed against <hi>Rule</hi> and <hi>Reason,</hi> by his Lordships meere <hi>Will</hi> and <hi>Power,</hi> and all to ruine the Petitioner <hi>unheard,</hi> under the notion of a <hi>Puritan,</hi> the objects of the States hatred, and the esteemed pests of those times.</p>
+            <p>The said Committee made severall Orders, and apointments for the hearing thereof, but it was still put off from time to time, till that Commit<g ref="char:EOLhyphen"/>tee was dissolved, without doing more therein.</p>
+            <p>In <hi>February</hi> 45. he renewed his complaint to the Committee for Peti<g ref="char:EOLhyphen"/>tions, who thereupon made this Order following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Martis</hi> 10. <hi>February</hi> 1645.</date>
+                              <hi>At the Committee of the House of Commons for Petitions.</hi>
+                           </dateline>
+                        </opener>
+                        <p>UPon reading the Petition of <hi>Clement Writer,</hi> and upon debate thereof, It is Ordered by tbis Committee, that it be referred to Mr. <hi>Rigby,</hi> Mr. <hi>Thomas,</hi> and Mr. <hi>Robinson,</hi> or any two of them, who are desired to take a view of the proceedings of this Cause, and state the matter of fact, and re<g ref="char:EOLhyphen"/>port the same to this Committee. And that this businesse be further heard on this day moneth, and all parties concerned herein that live in the Parliaments quarters are to have notice hereof, and are required to attend this Committee at the same time in the Inner Exchequer Chamber at Westminster.</p>
+                        <closer>
+                           <signed>JOHN GOODWYN.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>According to which Order, a Report was signed and made ready by the sub-Committee therein named, a true copie whereof (the preamble only omitted) here followeth.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <div type="body">
+               <pb n="2" facs="tcp:157476:2"/>
+               <head>To the Honourable Committee of the Right Honourable the House of <note place="margin">
+                     <hi>Mar.</hi> 9. 1645. <hi>Cl. Wri<g ref="char:EOLhyphen"/>ter</hi> Pet. <hi>Geo. Wor<g ref="char:EOLhyphen"/>field and his Wife</hi> Def. <hi>&amp;c contra.</hi>
+                  </note> Commons for Petitions.</head>
+               <p>WEe whose names are hereunto subscribed (being the said Referrees) haveing examined the proceedings in the said Causes, do humbly certifie unto this Honourable Committee; That the said Causes comming to be heard in Chancery, in <hi>Octob.</hi> 10 <hi>Carol.</hi> And being matters of Accompt, the same were by the Lord Keeper Coventry referred to an Accompt, to be computed by Mr. Littleton and Mr. Wormestry <hi>without the Petitioners con<g ref="char:EOLhyphen"/>sent,</hi> as appeareth by a Copy of a Petition of the said Mr. Writer to the said Lord Keeper, and of the said Lord Keepers Answer thereunto now pro<g ref="char:EOLhyphen"/>duced and shewed unto us under the hand of the Deputy Register of the said Court of Chancery. And upon the said Petitioners suit to the Lord Keeper, it was appointed, that the said Petitioner and the Defendants Soli<g ref="char:EOLhyphen"/>citors should attend his Lordship for naming indifferent men to take the Accompts, and then the said Lord Keeper by Order of the 25. of <hi>October, Anno</hi> 10 <hi>Car.</hi> appointed Sir <hi>Walter Devereux</hi> Kt. <hi>William Barkley</hi> Esquire, and Dr. <hi>Charlet,</hi> Commissioners to take the Accompts; and those Com<g ref="char:EOLhyphen"/>missioners were so named and appointed by the said Lord Keeper <hi>without the consent of the now Petitioner,</hi> as by his Affidavit of the 27 of February, 1645. and his Petition now shewed unto us, subscribed by the said Lord Keeper 14 <hi>Martij</hi> 1634 appeareth, and a Commission issued out according to the said Order of the 25 of <hi>October</hi> aforesaid to take the said Accompt, and the Commissioners therein named, were also thereby directed to take into consideration the Petitioners pains, and other things admitted in the Defen<g ref="char:EOLhyphen"/>dant <hi>Worfields</hi> answer, and to make the Petitioner fit allowance thereof, and had power thereby also to examine both parties upon oath, and other parties <hi>(vivâ voce)</hi> to such points as they conceived material, and that the 19 of <hi>January</hi> 1634. the said Commissioners certified, that they the 15 day of that moneth had heard the said parties, and taken their Accompts upon Oath, and examined Witnesses upon Oath, and had reduced the Accompt to a certaintie, <hi>(viz.)</hi> That the Petitioner had disbursed 200 <hi>l.</hi> in prosecution of suits for the said <hi>George Worfield,</hi> which the De<g ref="char:EOLhyphen"/>fendant had paid to the Petitioner, together with costs of Suit re<g ref="char:EOLhyphen"/>covered, and that the said Petitioner had received the profits of certain
+<pb n="3" facs="tcp:157476:2"/> Mills, and Lands, and a House, and other moneys paid and discharged by the Defendant for the Petitioner, in all 619 <hi>l.</hi> 10 <hi>s.</hi> besides the said costs of suit recovered by the said Petitioner upon Judgements for the said <hi>George Worfield</hi> which they allowed the Petitioner in full of all his disbursments, and for the losse of his time and trade about the Defendants businesse, and all other things admitted in the Defendants answer: and the said Commissi<g ref="char:EOLhyphen"/>oner did then also certifie an Accompt given in by the said Petitioner, which they did state at 619 <hi>l.</hi> 10 <hi>s.</hi> allowing the same in generall onely, yet set<g ref="char:EOLhyphen"/>ting forth the Defendants Accompts in the respective particulars thereof, as namely, that the Petitioner received the rent of the Defendants Mills eight years, amounting to 160 <hi>l.</hi> debt of the Petitioners, paid by the defen<g ref="char:EOLhyphen"/>dant to one Mistris <hi>Cowper</hi> 126 <hi>l.</hi> One other debt of the Petitioners to one <hi>Smart</hi> 57 <hi>l.</hi> and one other debt of 40 <hi>l.</hi> to one <hi>Philips,</hi> both which the De<g ref="char:EOLhyphen"/>fendant paid, and that the Petitioner held the Defendants house in Wor<g ref="char:EOLhyphen"/>cester three yeares worth 27. pounds, and that the Petitioner had 200. pounds of the Defendant which he recovered at Law, and 9 pounds 10. shillings confessed by the Petitioners answer to be paid by the defendant, in <hi>tot<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 619. <hi>l.</hi> 10. <hi>s.</hi> as appeareth by the said Commission and Certificate remaining in <hi>Chancery,</hi> Copyes whereof were now shewed unto us by the Petitioner.</p>
+               <p>And that the 16. of <hi>February,</hi> 10. <hi>Caroli,</hi> upon the Petitioners complaint, that the Commissioners had quit scores between him and the defendant <hi>Worfield:</hi> Whereas <hi>his demands amounted to</hi> 2000. <hi>l.</hi> It was Ordered by the said L. Keeper, that a Commission be renewed to the said Commissioners, with the same power (as formerly) which Commission being renewed, dated 11 <hi>March,</hi> 10. <hi>Caroli,</hi> the said Commissioners the 13. of <hi>April</hi> following certified, that they the 11. day of that moneth had reviewed and reexamined their former Certificate and Accompts formerly taken, and had also re<g ref="char:EOLhyphen"/>examined divers of the witnesses formerly sworne, and heard read divers depositions in the Cause, and had fully heard all the demands and allegations of the said parties, and certified further, that they found no cause to add to or alter their former Certificate as by copies of this latter Commission and Certificate now shewed to us by the Petitioner appeareth. And after<g ref="char:EOLhyphen"/>wards the 30. of <hi>Aprill,</hi> 11. <hi>Car.</hi> It was ordered by the said Lord Keeper, that both the said Certificates and the matters therein contayned be abso<g ref="char:EOLhyphen"/>lutely ratified and confirmed by the Decree of the said Court of <hi>Chancery</hi> to be performed.</p>
+               <p>
+                  <hi>But wee doe not finde, that any day was given to the Petitioner to shew cause</hi>
+                  <pb n="4" facs="tcp:157476:3"/>
+                  <hi>why the same</hi> should not be decreed, <hi>though he often Petitioned to have Liberty to shew his exceptions to the said Certificat,</hi> and <hi>the Commissioners proceedings therein,</hi> (as appeareth by severall Petitions to the said Lord Keeper, and his answer thereunto now shewed unto us) and wee doe also find, that the Petitioners chiefe Imployments in Law-suits for and on the behalfe of the said <hi>George Worfield,</hi> and which were to be allowed for by the said Com<g ref="char:EOLhyphen"/>missioners, <hi>were against the said Mr. Barkleys own sister</hi> and <hi>her son,</hi> and that Sir <hi>Walter Devereux</hi> was Land-lord to the said <hi>George Worfield</hi> (as appea<g ref="char:EOLhyphen"/>reth unto us by the Affidavit of <hi>Thomas Writer,</hi> made the 27 day of <hi>Aprill;</hi> 1635. and now shewed unto us.) And the said Petitioner hath also shewed unto us an Affidavit of <hi>Francis Collow</hi> and <hi>Thomas Writer,</hi> made the 23. of <hi>Aprill</hi> 1635. whereby <hi>great partialitie against the now Petitioner is sworne to have bin in the said</hi> Commissioners, <hi>Sir Walter Devereux, &amp; William Barkley,</hi> in their proceedings in the execution of the said latter Commission, the Pe<g ref="char:EOLhyphen"/>titioner alleadgeth, that he hath witnesses to <note n="*" place="margin">
+                     <hi>This is since pro<g ref="char:EOLhyphen"/>ved by two wit<g ref="char:EOLhyphen"/>nesses.</hi>
+                  </note> prove, that he exhibited a par<g ref="char:EOLhyphen"/>ticular accompt in writing to the said Commissioners at the execution of the said latter Commission, whereby he claimed above 2000 pounds <hi>to be due unto him</hi> from the said <hi>George Worfield,</hi> and that the Commissioners <hi>refused to examine the particulars thereof.</hi>
+               </p>
+               <p>And we find by the Affidavit of <hi>Will Hill,</hi> made the 20 of <hi>February,</hi> 1635. and by the Affidavit of <hi>Tho. Writer,</hi> made the 18 of <hi>May,</hi> 1636. that they were both present the 11 day of <hi>April,</hi> 1635 at the execution of the said lat<g ref="char:EOLhyphen"/>ter Cōmission, where the Petitioners Councell desired, that according to the last Order of Reference, the accompts between the parties might be reviewed and rectified in the mistakes &amp; Omissions thereof, but the said Cōmissioners answered, they were resolved <hi>not to alter or vary from that they had formerly done.</hi> The Petitioners Councell urging, that the former Certificate was a generall setting of the demands of the one against the other in grosse, and thereby making them both even, which was a great mistake, and much damage to the Plaintife (the now Petitioner) and not the right way of Proceedings in such cases, and therefore desired, that the severall accompts might then be examined in each particular by themselves, with the time, and the other circumstances considerable to be considered of, which would make the accompts clear &amp; certain, <hi>but the said Commissioners utterly refused so to doe.</hi> And the Petitioner desiring to have the said <hi>George Worfield</hi> exami<g ref="char:EOLhyphen"/>ned upon oath, the Commissioners would not doe it; there being at that time but <hi>one witnesse sworne and examined,</hi> which was one <hi>John Evet,</hi> and he examined on the defendants behalfe, the said M. <hi>Barkley</hi> affirmed, that they
+<pb n="5" facs="tcp:157476:3"/> gave more credit to the said <hi>Evet</hi> then to all the now Petitioners witnesses; and there being speeches used at the same time concerning the Lands in question, and the Petitioners estate therein, Sir <hi>Walter Devereux</hi> said, they had no power to meddle thetein: Whereupon the said Councell desired them so to explain themselves; whereupon the said Sir <hi>Walter</hi> said, <hi>Nay, if you be there we have done,</hi> &amp; rose up in displeasure, and so brake off, and thus ended the businesse, the said Mr. <hi>Barkley</hi> often using words <hi>as if the cause had concerned himselfe,</hi> as appeareth by their severall Affidavits now shewed unto us.</p>
+               <closer>
+                  <signed>Alexander Rigby. Luke Robinson.</signed>
+               </closer>
+               <argument>
+                  <p>Note, before that day moneth came, (nominated by the said Order for the Committees further hearing of the Cause) this Committee was suspended for six weeks; and when the Petitioner had in vaine waited three yeares for the restoring thereof, about 48. he exhibited a Bill of Review in <hi>Chancery,</hi> to which his adversaries demurred, and after its dependance there above twenty moneths, and the Petitioners expence above a hundred Marks, the Demurrer was allowed, and the Petitioners Bill dismissed, he being told by a person of Eminent Authority and experience, That not the <hi>Chancery</hi> but the Parliament must yeeld reliefe in the case, it being pro<g ref="char:EOLhyphen"/>per only for them: Wherefore it's hoped, and desired, the same person will now please to effect something in Parliament for the Petitioners re<g ref="char:EOLhyphen"/>liefe, when he considers the long dependance of the Cause there unredres<g ref="char:EOLhyphen"/>sed, and the honor attained to himselfe thereby; the same Complaint be<g ref="char:EOLhyphen"/>ing yet continued by the Petition following.</p>
+               </argument>
+            </div>
+            <div type="petition">
+               <head>To the Parliamont of the Common-wealth of <hi>England,</hi> the humble Petition of <hi>Clement Writer</hi> of the Citty of <hi>Worcester.</hi>
+               </head>
+               <p>SHEWETH,</p>
+               <p>THat your Petitioner had unequall Referrees thrust upon him by the Lord Keeper <hi>Coventry,</hi> and their false and unjust Certificates as unjustly decreed by his Lordship, without day given to shew cause against it; and when the
+<pb n="6" facs="tcp:157476:4"/> Petitioner had proved by divers witnesses the partiaiitie and injustice of the said Referrees, and the falsen<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sse of the sai<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Certificat, he was denyed by his Lord<g ref="char:EOLhyphen"/>ship to be heard therein, to the Petitioners damage above 1500 pounds.</p>
+               <p>That the Petitioner for reliefe appealed the 4. of December, 1640. to the grand Committee for Courts of Justice, who then and after made severall Orders for the hearing thereof, and your Petitioner with his Councell and many Witnesses (fetcht from <hi>Worcester,</hi> and here kept at the Petitioners charge) continually attending; but by reason of the publique Affaires of the Nation, it was still put off from day to day, till that Committee was dissolved.</p>
+               <p>That the 10. of Feb. 1645. your Petitioner appealed to the Committee for Petitions, who then upon full debate ordered, That some of that Committee then present should view the proceedings, state the matter of fact, and report the same to that Committee, and the Cause to be further heard that day moneth.</p>
+               <p>That accordingly the Proceedings were viewed, a Report signed, and made readie to be reported by M. <hi>Rigby</hi> and M. <hi>Robinson:</hi> but before that day moneth came, that Committee was suspended for six weekes, and never yet restored.</p>
+               <p>Now forasmuch as your Petitioner hath long languished under this oppression and is extreamly wasted every way by his twelve years chargable attend<g ref="char:EOLhyphen"/>ance, there being no ordinary Court of Justice able to afford him relief; and for that his Adversaries (taking advantage by the delay he findes in Par<g ref="char:EOLhyphen"/>liament) do seek to deprive him of his present subsistence by vexatious suits, eccasioned by that unjust Decree, against which he hath so long here com<g ref="char:EOLhyphen"/>plained; which Suites would be quieted if his Cause were but heard, which was never yet heard, though decreed against him. And for that he hath al<g ref="char:EOLhyphen"/>wayes adhered to the Parliament, done, and suffered much for them, and contributed to their assistance, to the utmost of his ability, without repay<g ref="char:EOLhyphen"/>ment, or any the least recompence hitherto.</p>
+               <p>He therefore humbly beseecheth, that the Parliament will be pleased to hear the said Report, and to do thereupon, as to your wisdoms shall ap<g ref="char:EOLhyphen"/>pear to stand with Justice, for the Petitioners timely relief, before the small remainder of his much wasted estate, and life, do both expire.</p>
+               <closer>And your Petitioner shall pray, &amp;c.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="7" facs="tcp:157476:4"/>
+            <head>POSTSCRIPT. To the Members in Parliament;</head>
+            <opener>Be pleased to consider,</opener>
+            <p n="1">1 HOw small, reasonable, and just, the thing petitioned for is.</p>
+            <p n="2">2. How tedious and chargeable the attendance and prosecution hereof hath been to the Petitioner.</p>
+            <p n="3">3 How sad a thing it is thus to neglect the grievances of your suffering friends, and therein to benefit and advantage your enemies, to the undoing of your friends.</p>
+            <p>But the Petitioner hopeth to find you better towards him when you duly weigh his condition, and your own solemn Promise made to the Nation in the very case, April 17. 1646. viz. <hi>That in case of male administration of Justice, you would see and provide that right be doue, and punishment inflicted ac<g ref="char:EOLhyphen"/>cording to the Laws of the Land, and the trust reposed in you.</hi>
+            </p>
+            <p n="4">4 What just and necessary care the Parliament had for redress of such grie<g ref="char:EOLhyphen"/>vances by the Order following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Martis,</hi> 2. <hi>Martij,</hi> 1640.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Commons assembled in Parliament, That it be referred to the Committee for the Jurisdiction of the Star-chamber, to procure a Bill, and to present it to this House; and therein to consider how far the Heires and Executors of such as are, or have been, in Judicial or Ministerial places since</hi> 9. Carol. <hi>or shall be hereafter, that have or shall doe wrong to the Common-wealth, by Extortion, Oppression, or Injustice, shall be liable to make reparation to the parties grieved.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>R. Acton,</hi> who attends at the Parliament door, hath the Report ready to give in when its called for.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
